@@ -13,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 		,glue= {"stepDefinations"}
 		// Below code is for Generating HTML Report as mentioned in 'pom.xml'
 		,plugin ="json:target/jsonReports/cucumber-report.json"
-		//,tags=("@AddPlace")
+		,tags=("@AddPlace")
 				)
 public class TestRunner {
 

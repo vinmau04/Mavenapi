@@ -21,7 +21,7 @@
 		   	</plugin>
 		         
 		   
-<!--DEEPAK -  Below code for Generating HTML Report "https://github.com/damianszczepanik/maven-cucumber-reporting" -->
+<!--DEEPAK Kumar -  Below code for Generating HTML Report "https://github.com/damianszczepanik/maven-cucumber-reporting" -->
 		   <plugin>
                 <groupId>net.masterthought</groupId>
                 <artifactId>maven-cucumber-reporting</artifactId>
